@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to the documentation for our SETAP project: A Timetable Scheduler
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
