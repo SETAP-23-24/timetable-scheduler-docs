@@ -6,29 +6,23 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To use our app, first clone the github repository:
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   $ git clone https://github.com/SETAP-23-24/timetable-scheduler.git
 
-Creating recipes
+Importing a timetable
 ----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+Currently you can only import a timetable in the form of a link to an ical file. 
 
-.. autofunction:: lumache.get_random_ingredients
+If your University uses the CMISGO timetable system, it is incredibly easy to get that link.
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
+These are the steps:
+- Click on administration in the top right.
+- Click on my mobile in the drop down.
+- Copy the ics link shown.
 
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+Once you have the link paste that into our app and *voila* you have successfully imported your timetable.
 
