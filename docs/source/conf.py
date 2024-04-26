@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Timetable Scheduler'
+copyright = '2024'
+author = 'SETAP 23/24 Group 2B'
 
 release = '0.1'
 version = '0.1.0'
