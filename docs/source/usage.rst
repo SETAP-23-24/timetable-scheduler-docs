@@ -24,5 +24,5 @@ These are the steps:
 - Click on my mobile in the drop down.
 - Copy the ics link shown.
 
-Once you have the link paste that into our app and *voila* you have successfully imported your timetable. Well done!
+Once you have the link paste that into our app and *voila* you have successfully imported your timetable.
 
