@@ -26,6 +26,7 @@ These are the steps:
 
 Once you have the link paste that into our app and *voila* you have successfully imported your timetable. Well Done!
 
+
 Using the settings page
 ----------------
 
