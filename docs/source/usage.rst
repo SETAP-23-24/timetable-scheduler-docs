@@ -18,10 +18,10 @@ Using the homepage
 After you register and login, you will be greeted with the homepage. 
 The homepage is where you navigate around the app. You simply click on the part of the app you would like to go to and it should load up for you. 
 The current pages available are:
-- Timetable Page.
-- Map Screen Page.
-- Setting Page ( Notification settings page is able to be accessed from here ).
-- Notes Page.
+* Timetable Page.
+* Map Screen Page.
+* Setting Page ( Notification settings page is able to be accessed from here ).
+* Notes Page.
 
 
 Importing a timetable
