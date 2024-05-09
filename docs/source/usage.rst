@@ -56,6 +56,14 @@ You can change:
 * If you want to use the dark mode or not.
 * where your home address is. This is used to calculate the route to your classes.
 
+Using the notification page
+---------------------------
+
+The notification page is available on the settings page by clicking the notification settings button.
+After clicking this button, you will be put on a screen that displays all of the sessions that the user has. 
+If you click the add button in the bottom right, the user can see an empty screen that has another add button adn will be asked to accpet notifications, accept this, and hit that add button.
+After that, the user can fill in the input fields and select the dat and time, and add more sessions by clicking the add button again, where they will be displayed in a clomun. The user can then submit these or hit the minus button to remove the sessions, by hitting the the submit button, The second page that you are taken to, will fill up with a container for each session added. These will be added to the database for each session, and the user should get a push notification. The user can then hit a back button in the top right, which will then display all the sessions again including the newly added one. 
+
 Using the map_screen page
 -------------------------
 
