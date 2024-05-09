@@ -47,10 +47,10 @@ On this screen you are able to see your own location, a representation of the Un
 You are also able to see the address of each building and also get directions there, based off the travel mode you choose. 
 
 To ensure smooth running of the map screen follow the steps below. You will usually have to go through them one time when you have just downloaded the app.
-- Make sure your location is turned on before trying to access the map screen.
-- Make sure you choose 'While Using The App' when prompted for location access permission.
-- Once finished with the above two steps and you are able to see the map, reload the page by either closing the app and reopening it, OR navigate back to the previous page and then to the map screen again.
--This will ensure that the maps loads up correctly with the necessary permissions and data.
+Make sure your location is turned on before trying to access the map screen.
+Make sure you choose 'While Using The App' when prompted for location access permission.
+Once finished with the above two steps and you are able to see the map, reload the page by either closing the app and reopening it, OR navigate back to the previous page and then to the map screen again.
+This will ensure that the maps loads up correctly with the necessary permissions and data.
 
 CAUTION: Turning off your location or denying location access will cause the screen to malfunction and potentially stop working.
 
