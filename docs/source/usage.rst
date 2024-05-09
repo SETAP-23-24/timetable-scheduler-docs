@@ -18,6 +18,7 @@ Using the homepage
 After you register and login, you will be greeted with the homepage. 
 The homepage is where you navigate around the app. You simply click on the part of the app you would like to go to and it should load up for you. 
 The current pages available are:
+
 * Timetable Page.
 * Map Screen Page.
 * Setting Page ( Notification settings page is able to be accessed from here ).
@@ -47,12 +48,13 @@ Using the settings page
 
 The settings page is where you can change the settings of the app. 
 You can change:
-- The time yow want to get notified about your classes for the day.
-- The link to your timetable .ics file. if you want to change it.
-- The way your route is calculated. You can choose your mode of transport
-- If you want to be routed to your classes or not.
-- If you want to use the dark mode or not.
-- where your home address is. This is used to calculate the route to your classes.
+
+* The time yow want to get notified about your classes for the day.
+* The link to your timetable .ics file. if you want to change it.
+* The way your route is calculated. You can choose your mode of transport
+* If you want to be routed to your classes or not.
+* If you want to use the dark mode or not.
+* where your home address is. This is used to calculate the route to your classes.
 
 Using the map_screen page
 -------------------------
