@@ -40,7 +40,7 @@ You can change:
 - where your home address is. This is used to calculate the route to your classes.
 
 Using the map_screen page
--------------------------
+---------------
 
 On the map screen, you get to see the various buidlings part of the University of Portsmouth.
 On this screen you are able to see your own location, a representation of the Uni Bus (U1) route.
