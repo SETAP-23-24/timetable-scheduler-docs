@@ -64,6 +64,12 @@ After clicking this button, you will be put on a screen that displays all of the
 If you click the add button in the bottom right, the user can see an empty screen that has another add button and will be asked to accpet notifications, accept this, and hit the add button.
 After that, the user can fill in the input fields and select the date and time, and add more sessions by clicking the add button again, where they will be displayed in a column. The user can then submit these or hit the minus button to remove the sessions, by hitting the the submit button, The second page that you are taken to, will fill up with a container for each session added. These will be added to the database for each session, and the user should get a push notification. The user can then hit a back button in the top right, which will then display all the sessions again including the newly added one. 
 
+Using the notes page
+---------------------------
+
+On the notes page, you can add, delete and store notes.
+You can create a note by clicking on add button on the bottom right and it will open a screen where the user can input the note title and the note description. Both the note title and description is necessary for the user to be able to save the note. After both are entered, the user can press the save button and the app will put you back into the notes page screen with your note saved. The user can now add more notes or to view or delete the note, the user can click on the note and it will be enlarged. To delete the note, the user has to press the bin icon on the top right corner and then press confirm. If the user does not want to delete the note, they can press the cancel button and then the back button on the top left to return to the homepage.
+
 Using the map_screen page
 -------------------------
 
